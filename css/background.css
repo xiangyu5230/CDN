@@ -1,7 +1,3 @@
-var full_page = document.getElementsByClassName("full_page");
-if (full_page.length != 0) {
-  full_page[0].style.background = "transparent";
-}
 body {
   cursor: url(https://cdn.jsdelivr.net/gh/xiangyu5230/CDN@1.0/img/normal.ani),
       default;

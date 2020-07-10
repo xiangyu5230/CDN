@@ -1,0 +1,11 @@
+/*
+ * 鼠标移动
+*/
+body {
+  cursor: url(https://cdn.jsdelivr.net/gh/xiangyu5230/CDN@1.3/img/normal.cur),
+      default;
+}
+a,img {
+  cursor: url(https://cdn.jsdelivr.net/gh/xiangyu5230/CDN@1.3/img/link.cur),
+      default;
+}
